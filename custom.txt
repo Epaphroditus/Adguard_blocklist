@@ -27,6 +27,7 @@
 0.0.0.0		quora.com
 0.0.0.0		search.givewater.com
 0.0.0.0		givewater.com
+0.0.0.0		makeagif.com
 0.0.0.0		tumblr.com
 0.0.0.0		proxy.duckduckgo.com
 0.0.0.0		external-content.duckduckgo.com
@@ -145,3 +146,11 @@
 0.0.0.0		yahoo.com
 0.0.0.0		*.blogspot.com
 0.0.0.0		reddit.com
+0.0.0.0		wtfonline.mx
+0.0.0.0		encrypted-tbn0.gstatic.com
+0.0.0.0		encrypted-tbn1.gstatic.com
+0.0.0.0		encrypted-tbn2.gstatic.com
+0.0.0.0		encrypted-tbn3.gstatic.com
+0.0.0.0		encrypted-tbnl.gstatic.com
+0.0.0.0		encrypted-tbnl.google.com
+0.0.0.0		tbn.l.google.com
