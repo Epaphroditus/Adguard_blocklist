@@ -98,7 +98,6 @@
 0.0.0.0		c.neevacdn.net
 0.0.0.0		neeva.com
 0.0.0.0		twitter.com
-0.0.0.0		github.com
 0.0.0.0		topgoss.com
 0.0.0.0		pinterest.com
 0.0.0.0		unfollow.news
