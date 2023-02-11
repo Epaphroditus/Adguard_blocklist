@@ -137,7 +137,6 @@
 0.0.0.0  yunohost.org
 0.0.0.0  jitsimeet.cloud.infinity-telecom.com
 0.0.0.0  search.cmel.dev
-0.0.0.0  duckduckgo.com
 0.0.0.0  yonder.eu
 0.0.0.0  yandex.eu
 0.0.0.0  rumble.com
