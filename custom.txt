@@ -1,3 +1,5 @@
+||qwant.com^
+||wikipedia.org^
 ||yandex.fr^
 ||naver.com^
 ||seznam.cz^
